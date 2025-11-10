@@ -3,7 +3,7 @@
 Track the countries you’ve visited with **Travel Trail**, a full-stack web application built with **Node.js**, **Express**, **EJS**, and **Prisma**, backed by a **PostgreSQL database**.
 
 <p align="center">
-  <img src="" alt="Travel Trail Banner" width="800"/>
+  <img src="./assets/banner.webp" alt="Travel Trail Banner" width="800"/>
 </p>
 
 <br>

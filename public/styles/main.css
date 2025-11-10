@@ -126,8 +126,10 @@ button:active {
 
 /* Active / Highlighted countries (JS-applied) */
 .highlighted {
-  fill: #10b981 !important; /* Emerald green */
-  filter: drop-shadow(0 0 10px rgba(16, 185, 129, 0.8));
+  fill: #22d3ee !important; /* Accent blue */
+  filter: drop-shadow(
+    0 0 12px rgba(34, 211, 238, 0.7)
+  ); /* glow matches accent */
   transition: all 0.4s ease;
 }
 

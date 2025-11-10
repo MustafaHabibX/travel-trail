@@ -134,9 +134,8 @@ travel-trail/
 │  ├─ styles/
 │  ├─ images/
 │  └─ favicon.ico
-├─ views/            # EJS templates
-├─ routes/           # Express route files
-├─ server.js         # Main server entry
+├─ views/            # EJS templates        # Express route files
+├─ index.js         # Main server entry
 ├─ package.json
 ├─ .env.example      # Example environment variables
 ├─ .env             # Your local environment variables (ignored by git)

@@ -151,6 +151,8 @@ travel-trail/
 3. You will see the **Country** you added is now highlighted.
 4. All updates are saved in the PostgreSQL database via Prisma.
 
+<br>
+
 ---
 
 ## Learning Outcomes
